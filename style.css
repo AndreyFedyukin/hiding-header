@@ -71,7 +71,7 @@ body {
 }
 
 .menu.hide {
-  transform: translateY(-60px);
+  transform: translateY(-40px);
 }
 
 .menu__list {
