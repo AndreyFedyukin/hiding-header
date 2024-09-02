@@ -1,6 +1,6 @@
 # Скрывающийся header
 
-Ссылка на сайт - <>
+Ссылка на сайт - <https://andreyfedyukin.github.io/hiding-header/>
 
 ---
 
